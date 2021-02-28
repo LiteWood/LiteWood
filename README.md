@@ -9,8 +9,8 @@
 
 ---
 
-My Blog: 
-- [Jannchie's Tech Blog](https://LiteWood.github.io/): Simply record what I have learned.
+My Github Pages: 
+- [https://LiteWood.github.io/](https://LiteWood.github.io/): Simply record what I have learned.
 
 My Project:
 - [Lite Wood API](https://github.com/LiteWood/LiteWoodApi):  An API For Litewood.
